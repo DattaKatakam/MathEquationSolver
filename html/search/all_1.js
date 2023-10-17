@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['getabsoluteerrorvals_0',['getAbsoluteErrorVals',['../classerror_check.html#a26bd1460d66ea29285e5bcf8539d6f20',1,'errorCheck']]],
+  ['getalinmean_1',['getALinMean',['../class_math_lib.html#a6d4de2b69a7ec481adfe4d22c24354b1',1,'MathLib::getALinMean()'],['../class_math_library.html#ad7537b62ace28b20f0b3b61596881db2',1,'MathLibrary::getALinMean()'],['../class_math_lib_sub.html#a06e133efe162dff1cfd3e17c3770e922',1,'MathLibSub::getALinMean()']]],
+  ['getanonlinmean_2',['getANonLinMean',['../class_math_lib.html#ae288e39098c986e58c62a3d3c81ee5b4',1,'MathLib::getANonLinMean()'],['../class_math_library.html#aa89dda162662596b4a833cc0abe5261b',1,'MathLibrary::getANonLinMean()'],['../class_math_lib_sub.html#ac910f019b8449804d098be1c7d735b51',1,'MathLibSub::getANonLinMean()']]],
+  ['getblinmean_3',['getBLinMean',['../class_math_lib.html#a3f12cc81e2897241a1207658ecd56e5f',1,'MathLib::getBLinMean()'],['../class_math_library.html#afcbb6ee6c872b85346f796345ec619d9',1,'MathLibrary::getBLinMean()'],['../class_math_lib_sub.html#a86da20efb8863f17558a28def322ea1a',1,'MathLibSub::getBLinMean()']]],
+  ['getbnonlinmean_4',['getBNonLinMean',['../class_math_lib.html#a47fa80ad9d661d540f5a5fd0ad445788',1,'MathLib::getBNonLinMean()'],['../class_math_library.html#af3a9882c9dff178b38f3aa509022adb8',1,'MathLibrary::getBNonLinMean()'],['../class_math_lib_sub.html#aef3a0b261a144bc71a9dc5bcf15fc45e',1,'MathLibSub::getBNonLinMean()']]],
+  ['getconstnonlinmean_5',['getConstNonLinMean',['../class_math_lib.html#a264b05371543f42aaf6db84b05edc322',1,'MathLib::getConstNonLinMean()'],['../class_math_library.html#a6bf051e11492e74a06b16f6761abe404',1,'MathLibrary::getConstNonLinMean()'],['../class_math_lib_sub.html#ab2bafde42e8ace6d39261ac393eb3a07',1,'MathLibSub::getConstNonLinMean()']]],
+  ['getdeterminant_6',['getDeterminant',['../class_math_lib.html#af24b0174c788a87534804546322f7c58',1,'MathLib::getDeterminant(QVector&lt; QVector&lt; double &gt; &gt; equationMatrix)'],['../class_math_lib.html#ac8c23a16a61c25d84fe1b267089ff1a4',1,'MathLib::getDeterminant(QVector&lt; QVector&lt; double &gt; &gt; equationMatrix, int i)']]],
+  ['getdetset_7',['getDetSet',['../class_math_lib.html#ad577dd271ec366e24e98216af9d39d4a',1,'MathLib']]],
+  ['getdetseta_8',['getDetSetA',['../class_math_lib.html#ae7ef34fd0cbfe7273f2af492bc6e660b',1,'MathLib']]],
+  ['getdetsetb_9',['getDetSetB',['../class_math_lib.html#a8c57fe203c3cee893e6c8c9877f70519',1,'MathLib']]],
+  ['getdetsetconst_10',['getDetSetConst',['../class_math_lib.html#a553451d739a3e218f1bf3e487d3ba5ea',1,'MathLib']]],
+  ['getlinearvariables_11',['getLinearVariables',['../class_math_lib.html#a0028bf7311386ef518a9676441a8150a',1,'MathLib::getLinearVariables()'],['../class_math_library.html#aafede8c723df80f145bb4c2862951f31',1,'MathLibrary::getLinearVariables()'],['../class_math_lib_sub.html#aa4841b100778a4f2c24a172f52c8067b',1,'MathLibSub::getLinearVariables()']]],
+  ['getnonlinearvariables_12',['getNonLinearVariables',['../class_math_lib.html#a6620ef07897b0424c7aae5d3e01d70f0',1,'MathLib::getNonLinearVariables()'],['../class_math_library.html#ac3cefb49689b5581b44e0f630aeab800',1,'MathLibrary::getNonLinearVariables()'],['../class_math_lib_sub.html#ac25428907b66aefc9b26f19adafbce4e',1,'MathLibSub::getNonLinearVariables()']]],
+  ['getrelativeerrorvals_13',['getRelativeErrorVals',['../classerror_check.html#a29b5977889b9c7b2a0c37c74f0f3ea96',1,'errorCheck']]]
+];
